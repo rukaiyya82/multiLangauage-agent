@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 sstreamlit==1.38.0
 python-dotenv==1.0.1
 openai==1.52.2
@@ -20,4 +19,4 @@ gTTS==2.5.3
 pypdf==5.1.0
 pandas==2.2.3
 numpy==2.1.2
->>>>>>> 0f0227921e5af3e35664a0d860733d4ce4ff414e
+
