@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 AI Multi-Language Corporate Communicator Agent
 Fixed version: works with Google GenAI SDK and browser TTS
@@ -251,7 +251,7 @@ if st.session_state.history:
         st.sidebar.write(f"{len(st.session_state.history)-i}. {item[:200]}{'...' if len(item)>200 else ''}")
 else:
     st.sidebar.write("No history yet.")
-=======
+
 """
 AI Multi-Language Corporate Communicator Agent
 Fixed version: works with Google GenAI SDK and browser TTS
@@ -504,4 +504,4 @@ if st.session_state.history:
         st.sidebar.write(f"{len(st.session_state.history)-i}. {item[:200]}{'...' if len(item)>200 else ''}")
 else:
     st.sidebar.write("No history yet.")
->>>>>>> 0f0227921e5af3e35664a0d860733d4ce4ff414e
+
